@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Kentsel Boşluğun Üretimi: Florya Plajı',
+    title: 'Florya Plajı',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -30,7 +30,7 @@ var config = {
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
-                zoom: 8.3,
+                zoom: 12,
                 pitch: 0,
                 bearing: 0
             },
@@ -56,11 +56,11 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/kMhL7ng/1-1.jpg',
+            image: 'https://i.ibb.co/ZNskNpq/MEF-AAP-027-BAP-2025-01-02-09-06-23.jpg',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
-                zoom: 10,
+                zoom: 13,
                 pitch: 0,
                 bearing: 0
             },
@@ -86,11 +86,11 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/ZV76Kf7/1-2.jpg',
+            image: 'https://i.ibb.co/ZxpL7ff/1-2.jpg',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
-                zoom: 12,
+                zoom: 14,
                 pitch: 0,
                 bearing: -5,
                 speed: 1,
@@ -113,7 +113,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/WkpdjJs/1-3.jpg',
+            image: 'https://i.ibb.co/fphQTkK/1-3.jpg',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
@@ -132,7 +132,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/2ccZg0n/1-4.jpg',
+            image: 'https://i.ibb.co/KqwGYV5/1-4.jpg',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
@@ -177,11 +177,11 @@ var config = {
             ]
         },
         {
-            id: '7-atatürkdenizköşkü',
+            id: '7',
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/dk0mkTL/2.jpg',
+            image: 'https://i.ibb.co/mBnhdBW/2.jpg',
             description: '',
             location: {
                 center: [28.782562192228838,40.97258057250004],
@@ -207,11 +207,11 @@ var config = {
             ]
         },
         {
-            id: '8 plajgazinosu1',
+            id: '8',
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/9hFyQY6/3-1.jpg',
+            image: 'https://i.ibb.co/v4KxXRh/3-1.jpg',
             description: '',
             location: {
                 center: [28.78609458672994,40.97289129525926,],
@@ -237,11 +237,11 @@ var config = {
             ]
         },
         {
-            id: '8 plajgazinosu2',
+            id: '9',
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/G5h0JXX/3-2.jpg',
+            image: 'https://i.ibb.co/Tm5PtMy/3-2.jpg',
             description: '',
             location: {
                 center: [28.78609458672994,40.97289129525926,],
@@ -267,11 +267,11 @@ var config = {
             ]
         },
         {
-            id: '8 plajgazinosu3',
+            id: '10',
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/5WrM5B5/3-3.jpg',
+            image: 'https://i.ibb.co/4thmzH9/3-3.jpg',
             description: '',
             location: {
                 center: [28.78609458672994,40.97289129525926,],
@@ -298,3 +298,4 @@ var config = {
         },
     ]
 };
+
