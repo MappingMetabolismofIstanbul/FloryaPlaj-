@@ -56,7 +56,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/ZNskNpq/MEF-AAP-027-BAP-2025-01-02-09-06-23.jpg',
+            image: 'https://i.ibb.co/vMkGKfG/1.png',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
@@ -86,7 +86,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/ZxpL7ff/1-2.jpg',
+            image: 'https://i.ibb.co/bRrT7kWd/2.png',
             description: '',
             location: {
                 center: [28.786651618148237,40.97176035230295],
@@ -110,44 +110,6 @@ var config = {
         },
         {
             id: '4',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/fphQTkK/1-3.jpg',
-            description: '',
-            location: {
-                center: [28.786651618148237,40.97176035230295],
-                zoom: 16,
-                pitch: 0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '5',
-            alignment: 'fully',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/KqwGYV5/1-4.jpg',
-            description: '',
-            location: {
-                center: [28.786651618148237,40.97176035230295],
-                zoom: 19,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '6',
             alignment: 'left',
             hidden: false,
             title: '',
@@ -178,4 +140,3 @@ var config = {
         },
     ]
 };
-
