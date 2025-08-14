@@ -89,8 +89,8 @@ var config = {
             image: 'https://i.ibb.co/bRrT7kWd/2.png',
             description: '',
             location: {
-                center: [28.786651618148237,40.97176035230295],
-                zoom: 14,
+                center: [28.792322261414682,40.971823198737326],
+                zoom: 15.5,
                 pitch: 0,
                 bearing: -5,
                 speed: 1,
